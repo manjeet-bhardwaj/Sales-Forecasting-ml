@@ -1,0 +1,60 @@
+# Sales Forecasting using Machine Learning
+
+## 📌 Project Overview
+This project focuses on predicting future sales using historical sales data and machine learning techniques. Sales forecasting helps businesses in inventory planning, demand analysis, and decision-making.
+
+---
+
+## 🛠 Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
+## 📂 Dataset Information
+The dataset contains historical sales records collected over a period of time.
+
+### 🔹 Dataset Columns
+- **Date** – Date of the sales record  
+- **Sales** – Total sales on that date  
+
+### 🔹 Sample Data Format
+| Date       | Sales |
+|------------|-------|
+| 2018-01-01 | 1250  |
+| 2018-01-02 | 1320  |
+| 2018-01-03 | 1285  |
+
+> The dataset is used only for educational and internship purposes.
+
+---
+
+## ⚙️ Methodology
+1. Loaded the sales dataset using Pandas  
+2. Converted date column into datetime format  
+3. Extracted features such as Month and Year  
+4. Visualized sales trends over time  
+5. Split data into training and testing sets  
+6. Trained a Linear Regression model  
+7. Evaluated model performance using MAE and RMSE  
+
+---
+
+## 📈 Results
+The machine learning model was able to predict sales with reasonable accuracy.  
+Lower error values indicate better forecasting performance.
+
+---
+
+## 🚀 Conclusion
+This project demonstrates the application of machine learning in sales forecasting. The model can help businesses estimate future sales and make informed decisions.
+
+---
+
+## 👤 Author
+**Manjeet Bhardwaj**  
+Machine Learning Intern
